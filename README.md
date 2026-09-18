@@ -46,4 +46,4 @@ python tav.py --dir D:\Backup\twitter-archive serve --port 8080
 
 Then open `http://localhost:8080` in your browser. This serves the archive files locally, so images and videos bypass CORS security policies and load instantly.
 
-<!-- verified: 2026-09-17 -->
+<!-- verified: 2026-09-18 -->
